@@ -1,3 +1,5 @@
+![Postman](https://github.com/krishnaji/sample-chat-bot-notifyUser/blob/master/Postman.jpg)
+![Bot Emulator](https://github.com/krishnaji/sample-chat-bot-notifyUser/blob/master/BotEmulator.jpg)
 # my-chat-bot
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
